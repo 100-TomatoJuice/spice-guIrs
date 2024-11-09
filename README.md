@@ -10,3 +10,4 @@ A GUI application for the [spice-rs](https://github.com/100-TomatoJuice/spice-rs
 |--------|-----|
 | Delete Selected | Del |
 | Rotate | R |
+| Deselect | Right Mouse Button | 
