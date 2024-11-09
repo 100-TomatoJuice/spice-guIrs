@@ -1,4 +1,5 @@
 # ⚡ Spice GuIrs
+[![CI](https://github.com/100-TomatoJuice/spice-guIrs/actions/workflows/ci.yaml/badge.svg)](https://github.com/100-TomatoJuice/spice-guIrs/actions/workflows/ci.yaml)
 
 <a href="url"><img src="https://github.com/user-attachments/assets/2fec3233-c65f-4785-ac27-ff66e0e169ed" height="300" width="400" ></a>
 
