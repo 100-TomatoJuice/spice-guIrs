@@ -8,4 +8,4 @@ eframe = "0.29.1"
 egui = "0.29.1"
 egui_extras = { version = "0.29.1", features = ["image"] }
 hashbrown = "0.14.5"
-spice-rs = { path = "../spice-rs" }
+spice-rs = { git = "https://github.com/100-TomatoJuice/spice-rs.git" }

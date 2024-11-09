@@ -2551,6 +2551,7 @@ dependencies = [
 [[package]]
 name = "spice-rs"
 version = "0.1.0"
+source = "git+https://github.com/100-TomatoJuice/spice-rs.git#7ca8442f68e1d114491cd2ddd8ef970405e17fa6"
 dependencies = [
  "approx",
  "dyn-clone",
